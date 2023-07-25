@@ -1,0 +1,4 @@
+dataset/
+**/.DS_Store
+flower/evaluation/
+flower/savedmodels/

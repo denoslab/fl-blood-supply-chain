@@ -47,3 +47,20 @@ source run.sh
 
 - After running `run.sh`, open `DASHBOARD.html` to see all the results, and the saved models wil be inside the `flower/saved_models` directory.
 - Current approach uses data generated from ARIMA model for training and predictions
+
+## Reference
+
+\[15\] Maryam Motamedi, Na Li, Douglas G Down, and Nancy M Heddle. 2021. Demand
+forecasting for platelet usage: from univariate time series to multivariate models.
+[arXiv preprint arXiv:2101.02305](https://arxiv.org/abs/2101.02305) (2021)
+
+## Citation
+
+```
+@inproceedings{wei2023federated,
+  title={Federated Blood Supply Chain Demand Forecasting: A Case Study},
+  author={Wei, Hanzhe and Li, Na and Wu, Jiajun and Zhou, Jiayu and Drew, Steve},
+  booktitle={International Workshop on Federated Learning for Distributed Data Mining},
+  year={2023}
+}
+```

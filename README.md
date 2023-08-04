@@ -1,6 +1,8 @@
 # fl-blood-supply-chain
 
-Federated learning for blood supply chain.
+Federated learning for blood supply chain. Simulation code repo for the paper [Federated Blood Supply Chain Demand Forecasting: A Case Study](https://openreview.net/forum?id=2c0hdQDvf5g), published in KDD 2023 International Workshop on Federated Learning for Distributed Data Mining.
+
+
 
 ## Overview
 
